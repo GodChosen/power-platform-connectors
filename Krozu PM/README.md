@@ -104,10 +104,10 @@ Unassign existing user from this Card with a specified Role.
 Deletes the specified list as long as confirmed is 1 and the list is empty.
 
 ## Known Issues and Limitations
-No identified issue yet. 
+No identified issue yet. <br/>
 However, there is a set API usage limit clearly defined in the [terms of use](https://krozu.com/terms). You would need to contact Krozu via email: **support@krozu.com** if needs differs from the limitation.
 
 ## API Documentation
 API: [https://developers.aftership.com/reference/](https://developers.aftership.com/reference/)
-<\ br>
+<br/>
 Terms of Use: [https://krozu.com/terms](https://krozu.com/terms)
