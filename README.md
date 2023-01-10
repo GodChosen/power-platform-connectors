@@ -1,2 +1,2 @@
-# power-platform-connectors
-This repo houses different custom connectors for Microsoft power platform
+# POWER PLATFORM CONNECTORS
+This repo houses different open source custom connectors created for Microsoft Power Platform.
