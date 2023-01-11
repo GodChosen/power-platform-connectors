@@ -9,7 +9,7 @@ To authenticate (using Oauth 2.0), users you must acquire a **Client ID** and **
 - Log in and click on **My Account** on the left sidebar.
 - Click on **Integrations**
 - Enter the **Client Name** (use a name that best suits the integration)
-- Enter [https://global.consent.azure-apim.net/redirect](https://global.consent.azure-apim.net/redirect) for the **Refresh URL** field.
+- Enter [https://global.consent.azure-apim.net/redirect](https://global.consent.azure-apim.net/redirect) for the **Redirect URL** field.
 - Click **Submit** and note down the **Client ID** and **Client Secret**.
 
 ## Supported Operations
@@ -102,6 +102,33 @@ Unassign existing user from this Card with a specified Role.
 
 ### Action - Delete List
 Deletes the specified list as long as confirmed is 1 and the list is empty.
+
+### Test Operations within Krozu PM Connector
+![Test Result](20230110174945.png)  
+
+![Message Added to Krozu Board](20230110175604.png)  
+
+### Krozu PM Connector Test within a Power Automate Flow
+
+### Overall Test Result
+<br/>
+![Flow Result](screenshots/20230110192809.png)  
+
+### Get - My Boards
+<br/>
+![Get - My Boards](screenshots/20230110193650.png)  
+
+### Action - Add List
+<br/>
+![Action - Add List](screenshots/20230110194131.png)  
+
+### Action - Add Card
+<br/>
+![Action - Add Card](screenshots/20230110194342.png)  
+
+### Action - Delete Card
+<br/>
+![Action - Delete Card](screenshots/20230110194547.png)
 
 ## Known Issues and Limitations
 No identified issue yet. <br/>
